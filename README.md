@@ -1,1 +1,1 @@
-# CV_PROJECT
+# Computer Vision ~ Course Project
