@@ -9,7 +9,7 @@ Originally Done Using **Python 3.6**
 
 **File to Execute : main_ocr_mouse.py**
 
-Link to Presentation : **Still Incomplete - Will be Completed on 12/7/2017**
+Link to Presentation :
 
 **https://docs.google.com/presentation/d/1rLPjOi3vMurHMHFzuJ0iEEva44wldXrF_K8d533GoWw/edit?usp=sharing**
 
