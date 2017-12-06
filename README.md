@@ -1,5 +1,8 @@
 # Computer Vision ~ Course Project
 
+Project Overview : 1. Text OCR and Translation, 2. Credit/Debit Card OCR and 3. Move Functions based on Color Tracked on Screen.
+A Three-in-One Project
+
 Originally Done Using **Python 3.6**
 
 **Program Requirements** : Python 3.x, NumPy, ImUtils, CV2, PyTesseract, PIL, GoogleTrans, Clipboard, PyAutoGUI
