@@ -5,7 +5,7 @@ A Three-in-One Project
 
 Originally Done Using **Python 3.6**
 
-**Program Requirements** : Python 3.x, NumPy, ImUtils, OpenCV2, PyTesseract, PIL, GoogleTrans, Clipboard, PyAutoGUI
+**Program Requirements** : Python 3.x, NumPy, ImUtils, OpenCV3, PyTesseract, PIL, GoogleTrans, Clipboard, PyAutoGUI
 
 **File to Execute : main_ocr_mouse.py**
 
