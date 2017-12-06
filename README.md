@@ -13,6 +13,8 @@ Link to Presentation :
 
 **https://docs.google.com/presentation/d/1rLPjOi3vMurHMHFzuJ0iEEva44wldXrF_K8d533GoWw/edit?usp=sharing**
 
+OCR Font Reference taken from : https://www.pyimagesearch.com/2017/07/17/credit-card-ocr-with-opencv-and-python/
+
 Link to Programming Assignments :
 
 Computer Vision ~ Programming Assignment ~ 1 : https://github.com/GirishKumarK/CV_PA_1
